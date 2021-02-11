@@ -9,8 +9,6 @@ int fact(int i)
 int main()
 {
     int n;
-    int i;
-
     
     std::cin >> n;
     int r = fact(n);
