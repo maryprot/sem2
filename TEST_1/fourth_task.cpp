@@ -47,7 +47,7 @@ int main()
         }
     }
     
-    for (int l = 0; l < N; l++) {
+    for (int l = N-1; l >= N; l--) {
         if (a[p] == b[l])
             p = l;
         if (a[j] == b[l])
