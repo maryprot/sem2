@@ -1,0 +1,6 @@
+﻿  sem22.04.cpp
+C:\Users\User\Desktop\infa\for git\sem22.04\sem22.04\sem22.04.cpp(61,44): error C2601: selection_sort_cycle: недопустимые локальные определения функций
+C:\Users\User\Desktop\infa\for git\sem22.04\sem22.04\sem22.04.cpp(44): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\User\Desktop\infa\for git\sem22.04\sem22.04\sem22.04.cpp(81,12): error C2601: main: недопустимые локальные определения функций
+C:\Users\User\Desktop\infa\for git\sem22.04\sem22.04\sem22.04.cpp(44): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\User\Desktop\infa\for git\sem22.04\sem22.04\sem22.04.cpp(44): fatal error C1075: "{": не найдена несоответствующая лексема
